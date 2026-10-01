@@ -1,0 +1,43 @@
+services:
+  - type: web
+    name: whatsapp-personal-bot
+    runtime: docker
+    plan: starter
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /healthz
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: NODE_VERSION
+        value: 22.22.0
+      - key: WHATSAPP_SESSION_PATH
+        value: /app/.baileys_auth
+      - key: WHATSAPP_AUTO_START
+        value: true
+      - key: WHATSAPP_AUTO_START_ALL
+        value: true
+      - key: WHATSAPP_RECONNECT_DELAY_MS
+        value: 5000
+      - key: JWT_SECRET
+        sync: false
+      - key: SESSION_SECRET
+        sync: false
+      - key: MONGO_URI
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GEMINI_MODEL
+        value: gemini-3.6-flash
+      - key: VAPID_PUBLIC_KEY
+        sync: false
+      - key: VAPID_PRIVATE_KEY
+        sync: false
+      - key: VAPID_SUBJECT
+        sync: false
+      - key: CORS_ORIGIN
+        sync: false
+    disk:
+      name: whatsapp-sessions
+      mountPath: /app/.baileys_auth
+      sizeGB: 2

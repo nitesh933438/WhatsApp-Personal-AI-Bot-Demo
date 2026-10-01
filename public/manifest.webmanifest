@@ -1,0 +1,33 @@
+{
+  "name": "WhatsApp Personal AI Bot — AI Assistant",
+  "short_name": "Personal AI Bot",
+  "start_url": "/dashboard.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#071522",
+  "theme_color": "#07966d",
+  "description": "A private WhatsApp AI assistant with smart replies and a responsive dashboard.",
+  "id": "/",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

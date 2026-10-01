@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log*
+.git
+.gitignore
+.env
+.baileys_auth
+.wwebjs_cache
+logs
+coverage
+backups
+*.zip

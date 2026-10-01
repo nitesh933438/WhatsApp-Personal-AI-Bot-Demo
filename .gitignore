@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.baileys_auth/
+.wwebjs_auth/
+.wwebjs_cache/
+whatsapp-sessions/
+logs/
+*.log
+npm-debug.log*
+.DS_Store
+coverage/
