@@ -1,8 +1,0 @@
-{
-  "name": "WhatsApp AI Assistant",
-  "description": "A personal WhatsApp AI assistant with smart replies, multi-account support, conversation memory, and a responsive dashboard.",
-  "permissions": [],
-  "capabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
