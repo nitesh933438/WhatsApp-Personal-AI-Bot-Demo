@@ -7,7 +7,7 @@
 A smart AI-powered WhatsApp assistant with a modern web dashboard to manage chats, contacts, notifications, WhatsApp connections, and AI settings.
 
 <p>
-  <a href="https://nitesh-personal-bot.onrender.com">🌐 Live Demo</a> •
+  <a href="https://my-personal-bot-okwg.onrender.com">🌐 Live Demo</a> •
   <a href="https://github.com/nitesh933438/WhatsApp-Personal-AI-Bot-Demo">📂 Repository</a> •
   <a href="https://github.com/nitesh933438">👨‍💻 Developer</a>
 </p>
@@ -24,7 +24,7 @@ A smart AI-powered WhatsApp assistant with a modern web dashboard to manage chat
 # 🎬 Live Demo
 
 <p align="center">
-  <a href="https://nitesh-personal-bot.onrender.com">
+  <a href="https://my-personal-bot-okwg.onrender.com">
     <img src="docs/demo.gif" alt="WhatsApp Personal AI Bot Demo" width="100%">
   </a>
 </p>
@@ -33,7 +33,7 @@ A smart AI-powered WhatsApp assistant with a modern web dashboard to manage chat
   <b>Explore the dashboard and application workflow.</b>
 </p>
 
-🌐 **Live Website:** https://nitesh-personal-bot.onrender.com
+🌐 **Live Website:** https://my-personal-bot-okwg.onrender.com
 
 ---
 
@@ -321,7 +321,7 @@ Building modern web applications, AI-powered tools, and practical software solut
 | 👨‍💻 GitHub Profile  | [Nitesh Kumar](https://github.com/nitesh933438)                                                |
 | 💼 LinkedIn Profile   | [Nitesh Kumar](https://www.linkedin.com/in/nitesh933438/)                                      |
 | 📦 Project Repository | [WhatsApp Personal AI Bot Demo](https://github.com/nitesh933438/WhatsApp-Personal-AI-Bot-Demo) |
-| 🌐 Live Project       | [Open Live Demo](https://nitesh-personal-bot.onrender.com)                                     |
+| 🌐 Live Project       | [Open Live Demo](https://my-personal-bot-okwg.onrender.com)                                     |
 
 ---
 
